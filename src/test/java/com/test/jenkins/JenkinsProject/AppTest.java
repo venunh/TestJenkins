@@ -10,6 +10,6 @@ public class AppTest
 	@Test
 	public void testJenkins()
 	{
-		System.out.println("Jenkins is running successfully..");
+		System.out.println("Jenkins is running successfully");
 	}
 }
